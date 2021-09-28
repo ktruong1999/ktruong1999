@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ktruong1999
 - 👀 I’m interested in ... Cats - i mean, UX Design & front end programming!
-- 🌱 I’m currently learning ... React Native
+- 🌱 I’m currently learning ... more UX Design! (visual design, responsive design, more...)
 - 💞️ I’m looking to collaborate on ... mobile app design & front end dev projects
 - 📫 How to reach me ... email @ ktruong1999@g.ucla.edu
 
